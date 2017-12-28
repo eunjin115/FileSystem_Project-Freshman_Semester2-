@@ -6,7 +6,7 @@ typedef struct{
     char inode[64];
     char data[128];
 }SUPER;
-
+//eunjin
 typedef struct{
     bool fileType;
     char date[20];
